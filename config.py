@@ -1,4 +1,4 @@
-TOKEN = '8535406002:AAFmn6E082WmMPkk_YUfTXedR6Iw4qJSamU'
+TOKEN = ''
 DATABASE = 'bot-portfolio.db'
 
 # Кастомизация
